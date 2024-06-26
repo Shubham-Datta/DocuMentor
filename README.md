@@ -37,7 +37,7 @@ To run this application locally, follow these steps:
     ```
 5. Add your Gemini API key to the `.env` file:
     ```env
-    GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+    GOOGLE_API_KEY="YOUR_GEMINI_API_KEY"
     ```
 6. Run the Streamlit application:
     ```bash

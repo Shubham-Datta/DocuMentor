@@ -10,6 +10,10 @@ DocuMentor is a Streamlit application that allows users to chat with multiple PD
 - Chat with the PDFs using natural language.
 - Download the generated questions as a PDF file.
 
+## Screenshot
+
+![DocuMentor Screenshot](screenshot.png)
+
 ## Installation
 
 To run this application locally, follow these steps:

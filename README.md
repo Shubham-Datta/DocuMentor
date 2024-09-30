@@ -20,7 +20,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/DocuMentor.git
+    git clone https://github.com/Shubham-Datta/DocuMentor.git
     ```
 2. Navigate to the project directory:
     ```bash
